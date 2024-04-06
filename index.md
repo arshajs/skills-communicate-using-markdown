@@ -17,6 +17,9 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+``` javascript
+var myVar = "Hello, World!";
+```
 - [x] List syntax is required
 - [ ] This item is complete
 - [x] This item is not complete
